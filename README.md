@@ -79,3 +79,5 @@ Alur kerja MVP dalam aplikasi ini adalah sebagai berikut:
 ---
 
 ## Dokumentasi
+https://github.com/user-attachments/assets/12879206-68f2-4955-82d3-2efabc5286a3
+
